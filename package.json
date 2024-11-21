@@ -2,6 +2,9 @@
   "name": "@olets/markdown-it-wrapperless-fence-rule",
   "module": "index.ts",
   "type": "module",
+  "keywords": [
+    "markdown-it"
+  ],
   "homepage": "https://github.com/olets/markdown-it-wrapperless-fence-rule",
   "repository": {
     "url": "https://github.com/olets/markdown-it-wrapperless-fence-rule.git",
