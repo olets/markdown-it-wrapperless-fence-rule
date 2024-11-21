@@ -2,7 +2,16 @@
   "name": "@olets/markdown-it-wrapperless-fence-rule",
   "module": "index.ts",
   "type": "module",
+  "homepage": "https://github.com/olets/markdown-it-wrapperless-fence-rule",
+  "repository": {
+    "url": "https://github.com/olets/markdown-it-wrapperless-fence-rule.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/olets/markdown-it-wrapperless-fence-rule/issues"
+  },
   "license": "MIT",
+  "description": "markdown-it plugin for a fence rule with no wrapper",
   "author": "Henry Bley-Vroman",
   "devDependencies": {
     "@types/bun": "latest"
