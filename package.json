@@ -2,6 +2,8 @@
   "name": "@olets/markdown-it-wrapperless-fence-rule",
   "module": "index.ts",
   "type": "module",
+  "license": "MIT",
+  "author": "Henry Bley-Vroman",
   "devDependencies": {
     "@types/bun": "latest"
   },
