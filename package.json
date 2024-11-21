@@ -29,6 +29,7 @@
   "files": [
     "dist"
   ],
+  "packageManager": "bun@1.1.25",
   "scripts": {
     "build": "bun run check-types && bunx unbuild",
     "check-types": "tsc --noEmit"
