@@ -2,6 +2,7 @@
   "name": "@olets/markdown-it-wrapperless-fence-rule",
   "module": "index.ts",
   "type": "module",
+  "version": "1.0.0",
   "keywords": [
     "markdown-it"
   ],
