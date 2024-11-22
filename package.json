@@ -1,6 +1,6 @@
 {
   "name": "@olets/markdown-it-wrapperless-fence-rule",
-  "module": "index.ts",
+  "module": "src/index.ts",
   "type": "module",
   "version": "1.0.0",
   "keywords": [
