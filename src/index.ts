@@ -1,5 +1,5 @@
 import type { RenderRule } from "markdown-it/lib/renderer";
-import { unescapeAll, escapeHtml } from "markdown-it/lib/common/utils";
+import { unescapeAll, escapeHtml } from "markdown-it/lib/common/utils.mjs";
 
 const wrapperlessFenceRule: RenderRule = (tokens, idx, options, _env, _slf) => {
   /**
