@@ -32,6 +32,6 @@ const wrapperlessFenceRule: RenderRule = (tokens, idx, options, _env, _slf) => {
    * https://github.com/markdown-it/markdown-it/blob/14.1.0/lib/renderer.mjs#L49
    */
   return highlighted + "\n";
-}
+};
 
 export default wrapperlessFenceRule;
