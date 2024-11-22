@@ -1,3 +1,17 @@
+## [1.2.1](https://github.com/olets/markdown-it-wrapperless-fence-rule/compare/v1.2.0...v1.2.1) (2024-11-22)
+
+
+### Bug Fixes
+
+* **plugin:** extension in dependency import path ([4ede5d4](https://github.com/olets/markdown-it-wrapperless-fence-rule/commit/4ede5d4a1024d4d9e61db0e9df367a24ad48641a))
+
+
+### Reverts
+
+* **plugin:** re-reintroduce types... ([f1518ff](https://github.com/olets/markdown-it-wrapperless-fence-rule/commit/f1518ffcfcdf60887ea9cde75a9412e640b905e9))
+
+
+
 # [1.2.0](https://github.com/olets/markdown-it-wrapperless-fence-rule/compare/v1.1.1...v1.2.0) (2024-11-22)
 
 
