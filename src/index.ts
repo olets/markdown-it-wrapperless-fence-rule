@@ -1,7 +1,7 @@
-// @ts-nocheck
 import { unescapeAll, escapeHtml } from "markdown-it/lib/common/utils.js";
+import type { RenderRule } from "markdown-it/lib/renderer";
 
-const wrapperlessFenceRule = (tokens, idx, options, _env, _slf) => {
+const wrapperlessFenceRule: RenderRule = (tokens, idx, options, _env, _slf) => {
   /**
    * Begin https://github.com/markdown-it/markdown-it/blob/14.1.0/lib/renderer.mjs#L30-L46
    */
