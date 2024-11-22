@@ -41,6 +41,11 @@ md.renderer.rules.fence = markdownItWrapperlessFenceRule;
 md.use(/* … */);
 ```
 
+## Examples
+
+- Basic: https://stackblitz.com/edit/oletsmarkdown-it-wrapperless-fence-rule-basic-demo?file=main.js
+- Shiki: https://stackblitz.com/edit/oletsmarkdown-it-wrapperless-fence-rule-shiki-demo?file=main.js
+
 ## Contributing
 
 Thanks for your interest. Contributions are welcome!
