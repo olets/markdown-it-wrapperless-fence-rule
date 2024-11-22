@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/olets/markdown-it-wrapperless-fence-rule/compare/v1.1.1...v1.2.0) (2024-11-22)
+
+
+### Features
+
+* **plugin:** no types ([68bebf5](https://github.com/olets/markdown-it-wrapperless-fence-rule/commit/68bebf560a7e265adb1216b130e69d5a8b136f12))
+
+
 # [1.1.1](https://github.com/olets/markdown-it-wrapperless-fence-rule/compare/v1.1.0...v1.1.1) (2024-11-22)
 
 
