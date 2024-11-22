@@ -48,6 +48,10 @@ md.use(/* … */);
 - Basic: https://stackblitz.com/edit/oletsmarkdown-it-wrapperless-fence-rule-basic-demo?file=main.js
 - Shiki: https://stackblitz.com/edit/oletsmarkdown-it-wrapperless-fence-rule-shiki-demo?file=main.js
 
+## Motivation
+
+markdown-it always renders fenced code with an outermost `<pre>` https://github.com/markdown-it/markdown-it/issues/269, and that doesn't play nice with transforming Shiki's output https://github.com/shikijs/shiki/issues/811.
+
 ## Contributing
 
 Thanks for your interest. Contributions are welcome!
