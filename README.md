@@ -2,7 +2,7 @@
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/olets/markdown-it-wrapperless-fence-rule) ![GitHub commits since latest release](https://img.shields.io/github/commits-since/olets/markdown-it-wrapperless-fence-rule/latest)
 
-`markdown-it` plugin for opting out of wrapping fenced code in <pre><code>
+`markdown-it` plugin for opting out of wrapping fenced code in `<pre><code>`.
 
 By default, `markdown-it` will always wrap rendered fenced code in `<pre><code>`. That's a good default: it turns
 
